@@ -1,5 +1,5 @@
 
-<img src="learningml.png" alt="Learning ML" width="400px" />
+[<img src="learningml.png" alt="Learning ML" width="400px" />](http://learning.ml)
 
 
 # Learning ML
@@ -9,6 +9,7 @@ A practical guide to understanding and applying machine learning algorithms in t
 by **[@blairhudson](http://twitter.com/blairhudson)**
 
 ## Table of Contents
+---
 
 ### [1. Introduction](01.00-Introduction.ipynb)
 * [1.01 WTF](01.01-WTF.ipynb)
@@ -21,4 +22,6 @@ by **[@blairhudson](http://twitter.com/blairhudson)**
 
 ### [4. Data Preparation](04.00-Data-Preparation.ipynb)
 
-This work is licensed under [CC BY-NC-ND 3.0 AU](https://creativecommons.org/licenses/by-nc-nd/3.0/au/).
+---
+
+[learning.ml](http://learning.ml) / This work is licensed under [CC BY-NC-ND 3.0 AU](https://creativecommons.org/licenses/by-nc-nd/3.0/au/).
